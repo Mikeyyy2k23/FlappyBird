@@ -1,0 +1,12 @@
+{
+    "results": [
+        {
+            "UserName": "ahoj",
+            "score": 123
+        },
+        {
+            "UserName": "ahoj2",
+            "score": 456
+        }
+    ]
+}
